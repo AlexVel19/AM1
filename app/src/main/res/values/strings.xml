@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Práctica guiada I</string>
+    <string name="name">Edison Alexander Solorzano Vélez</string>
+    <string name="textview">Escriba para convertir</string>
+    <string name="Celsius">Grados Celsius</string>
+    <string name="Fharenheit">Grados Fharenheit</string>
+</resources>
